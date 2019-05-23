@@ -16,7 +16,7 @@ void main()
 	cout << szStr << endl;
 	cout << StrLen(szStr) << endl;
 	UpperCase(szStr);
-	cout << UpperCase << endl;
+	cout << (szStr) << endl;
 	/*for (int i = 0; i < 256; i++)
 	{
 		cout << i << "\t" << (char)i << endl;
